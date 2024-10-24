@@ -2,7 +2,8 @@
 Task 1 for recruitments of coding club backend vertical.
 
 ## Setup
-<b>These commands are for linux, they may or may not work on other OS.</b></br>
+<b>These commands are for linux, they may or may not work on other OS.</b></br></br>
+
 Install full python:
 ```
 sudo apt install python3-full
