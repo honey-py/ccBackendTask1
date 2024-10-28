@@ -12,10 +12,6 @@ Install "requests" library using pip/pip3
 ```
 pip3 install requests
 ```
-It is recommended to use virtual environment, to do that, be in the directory containing satellite.py, then:
-```
-source .venv/bin/activate
-```
 
 ## How to use (help)
 ```
